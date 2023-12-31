@@ -13,4 +13,4 @@ I'm a R&D Engineer.
 
 
 #### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,cpp,arduino,html,css,sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,cpp,arduino,html,css,ai,git)](https://skillicons.dev)
