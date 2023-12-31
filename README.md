@@ -1,7 +1,7 @@
 # Hi 👋, I'm Damla AĞAÇA
 
 
-I am an R&D engineer and I am doing my master’s degree at Balıkesir University. My master’s thesis topic is the ** Classification of Harmonic Generating Power System Elements with Artificial Intelligence Methods **. 
+I am an R&D engineer and I am doing my master’s degree at Balıkesir University. My master’s thesis topic is the **Classification of Harmonic Generating Power System Elements with Artificial Intelligence Methods**. 
 - 🔭 I’m currently working on Python and MATLAB.
 - 🌱 I’m currently learning HTML & CSS.
 
