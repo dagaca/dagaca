@@ -19,6 +19,7 @@ I am an **R&D engineer** and I am doing my master’s degree at **Balıkesir Uni
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="SQL" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="UBUNTU" alt="UBUNTU" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="LabVIEW" alt="LabVIEW" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberrypi" alt="Raspberrypi" width="70" height="70"/>&nbsp;
