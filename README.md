@@ -1,7 +1,7 @@
 # Hi 👋, I'm Damla AĞAÇA
 
 
-I'm a R&D Engineer.
+I'm an R&D engineer. I'm currently pursuing my master's degree.
 
 - 🔭 I’m currently working on Python and MATLAB.
 - 🌱 I’m currently learning HTML & CSS.
