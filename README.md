@@ -1,6 +1,6 @@
-### Hi 👋, I'm Damla AĞAÇA
+## Hi 👋, I'm Damla AĞAÇA
 
-**dagaca/dagaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a R&D Engineer.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 #### Connect with me:
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dagaca) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagacaa@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damla-a%C4%9Fa%C3%A7a-b05702212/)
+
+
+#### Languages and Tools:
