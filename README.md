@@ -13,3 +13,7 @@ I am an **R&D engineer** and I am doing my master’s degree at **Balıkesir Uni
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,cpp,arduino,html,css,git)](https://skillicons.dev)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
