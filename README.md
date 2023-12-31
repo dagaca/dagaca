@@ -13,4 +13,4 @@ I'm a R&D Engineer.
 
 
 #### Languages and Tools:
-[![Python Badge](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
