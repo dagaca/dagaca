@@ -3,7 +3,7 @@
 
 I'm a **Research and Development Engineer** currently pursuing my master’s degree at **Balikesir University**. My master’s thesis centers on the **Classification of Harmonic Generating Power System Elements with Artificial Intelligence Methods**.
 - 🔭 I’m currently working on **Python**.
-- 🌱 I’m currently learning **C#** and also exploring **PostgreSQL**, **Flask**, and **Docker** to enhance my web development skills.
+- 🌱 I’m currently learning **C#** and also exploring **PostgreSQL**, **.NET**, and **Flask** to enhance my web development skills.
 
 
 ## Connect with me:
