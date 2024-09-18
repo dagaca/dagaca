@@ -36,6 +36,7 @@ I'm a **AI Developer** currently pursuing my master's degree at **Balikesir Univ
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="70" height="70"/>&nbsp;
 </div>
 
 ### Data Science & AI:
