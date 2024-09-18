@@ -2,9 +2,6 @@
 
 I'm an **AI Developer** currently pursuing my master's degree at **Balikesir University**. My master's thesis focuses on the **Classification of Harmonic Generating Power System Elements with Artificial Intelligence Methods**.
 
-🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.  
-🌱 Exploring **C#** and **.NET** to enhance my web development skills.
-
 <p align="center">
   <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300px" />
 </p>
