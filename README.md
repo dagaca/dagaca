@@ -58,7 +58,5 @@ I'm a **AI Developer** currently pursuing my master's degree at **Balikesir Univ
 
 - **Master’s Thesis**: Classification of Harmonic Generating Power System Elements with AI
 - **Publications**: Soon to be published work on power systems and AI.
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="70" height="70"/>&nbsp;
-</div>
 
 ---
