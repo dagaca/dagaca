@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Damla AĞAÇA</h1>  
-<img align="right" alt="Coding" width="300" src="![AI](https://github.com/user-attachments/assets/1cec1278-5db9-410f-9a30-2dfbb0ddcf0d)">
+<img align="right" alt="Coding" width="300" src="https://imgur.com/a/9Xk7XiY">
 <h4 align="left">Hello, welcome to my GitHub profile. I'm an AI Developer currently pursuing my master's degree at Balikesir University.</h4>
 
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**  
