@@ -5,18 +5,21 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.  
 🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
-<p align="center">
-  <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300px" align="right" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <p align="left">
+      <strong>🛠 Currently working on:</strong><br>
+      - **AI**, **ML**, **NLP**<br>
+      - **Python**, **SQL**, **RestAPI**, **Flask**<br><br>
 
-<p align="left">
-  <strong>🛠 Currently working on:</strong><br>
-  - **AI**, **ML**, **NLP**<br>
-  - **Python**, **SQL**, **RestAPI**, **Flask**<br><br>
-  
-  <strong>🌱 Exploring:</strong><br>
-  - **C#** and **.NET** to enhance my web development skills
-</p>
+      <strong>🌱 Exploring:</strong><br>
+      - **C#** and **.NET** to enhance my web development skills
+    </p>
+  </div>
+  <div>
+    <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300px" />
+  </div>
+</div>
 
 <p align="center">
   <strong>Connect with me:</strong>
@@ -33,8 +36,6 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-
 
 ## 🧠 GitHub Stats & Contributions:
 
