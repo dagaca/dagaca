@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Damla AĞAÇA</h1>  
-<img align="right" alt="Coding" width="300" src="https://lottie.host/embed/7a26f6d9-36da-4c53-8ef1-16ca1d6903fc/F6RcrgA2O7.json">
+<img align="right" alt="Coding" width="300" src="https://app.lottiefiles.com/animation/587a8368-c93b-4d33-87cb-2cbf56551b09">
 <h4 align="left">Hello, welcome to my GitHub profile. I'm an AI Developer currently pursuing my master's degree at Balikesir University.</h4>
 
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**  
