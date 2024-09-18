@@ -7,7 +7,7 @@
 
 ![age](https://img.shields.io/badge/age-25-1f77b4)
 ![focus](https://img.shields.io/badge/focus-AI-4caf50)
-![living](https://img.shields.io/badge/living-Turkey-gray)
+![living](https://img.shields.io/badge/living-Turkey-red)
 ![visitors](https://profile-counter.glitch.me/{dagaca}/count.svg)
 
 <br />
