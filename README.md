@@ -2,7 +2,6 @@
 <img align="right" alt="Coding" width="300" src="https://via.placeholder.com/400x300?text=Artificial+Intelligence">
 <h4 align="left">Hello, welcome to my GitHub profile. I'm an AI Developer currently pursuing my master's degree at Balikesir University.</h4>
 
-#### I am an AI Developer
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**  
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills 
 
