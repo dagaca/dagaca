@@ -50,7 +50,7 @@ I'm a **AI Developer** currently pursuing my master's degree at **Balikesir Univ
 
 ## 🔥 Recent Contributions:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damlaagaca&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dagaca&theme=radical)](https://git.io/streak-stats)
 
 ---
 
