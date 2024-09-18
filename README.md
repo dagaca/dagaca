@@ -22,7 +22,7 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
   </a>
 </p>
 
----
+
 
 ## 🧠 GitHub Stats & Contributions:
 
@@ -35,7 +35,7 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagaca&theme=radical" alt="GitHub Streak" height="135px" />
 </p>
 
----
+
 
 ## 💼 Skills & Tools:
 
@@ -69,11 +69,3 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="50" height="50"/>&nbsp;
 </div>
-
----
-
-## 🏆 Achievements:
-
-- **Master’s Thesis**: Classification of Harmonic Generating Power System Elements with AI.
-- **Publications**: Soon-to-be-published work on power systems and AI.
-
