@@ -42,9 +42,9 @@ I'm a **AI Developer** currently pursuing my master's degree at **Balikesir Univ
 
 ## 🧠 GitHub Stats:
 
-![Damla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damlaagaca&show_icons=true&theme=radical)
+![Damla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagaca&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damlaagaca&layout=compact&theme=radical)](https://github.com/damlaagaca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical)](https://github.com/dagaca/github-readme-stats)
 
 ---
 
