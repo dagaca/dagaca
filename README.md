@@ -5,9 +5,9 @@
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**  
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills 
 
-![age](https://img.shields.io/badge/age-25-blue)
-![focus](https://img.shields.io/badge/focus-AI-brightgreen)
-![living](https://img.shields.io/badge/living-Turkey-3c9)
+![age](https://img.shields.io/badge/age-25-1f77b4)
+![focus](https://img.shields.io/badge/focus-AI-4caf50)
+![living](https://img.shields.io/badge/living-Turkey-gray)
 ![visitors](https://profile-counter.glitch.me/{dagaca}/count.svg)
 
 <br />
