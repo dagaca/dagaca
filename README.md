@@ -5,6 +5,12 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
+---
+
+<p align="center">
+  <strong>Connect with me:</strong>
+</p>
+
 <p align="center">
   <a href="https://www.kaggle.com/dagaca" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-1a73e8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
