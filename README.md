@@ -5,7 +5,6 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
----
 
 <p align="center">
   <strong>Connect with me:</strong>
