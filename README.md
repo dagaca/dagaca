@@ -1,28 +1,28 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile" alt="AI Developer Banner" />
-</p>
-
 # Hi 👋, I'm Damla AĞAÇA
 
 I'm an **AI Developer** currently pursuing my master's degree at **Balikesir University**. My master's thesis focuses on the **Classification of Harmonic Generating Power System Elements with Artificial Intelligence Methods**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Developer-%2312100E.svg?&style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Master's%20Student-%2312100E.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</p>
+🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.  
+🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
-### 🛠 Currently working on:
-- **AI**, **ML**, **NLP**
-- **Python**, **SQL**, **RestAPI**, **Flask**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>🛠 Currently working on:</h3>
+    <ul>
+      <li><strong>AI</strong>, <strong>ML</strong>, <strong>NLP</strong></li>
+      <li><strong>Python</strong>, <strong>SQL</strong>, <strong>RestAPI</strong>, <strong>Flask</strong></li>
+    </ul>
 
-### 🌱 Exploring:
-- **C#** and **.NET** to enhance my web development skills
+    <h3>🌱 Exploring:</h3>
+    <ul>
+      <li><strong>C#</strong> and <strong>.NET</strong> to enhance my web development skills</li>
+    </ul>
+  </div>
 
----
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Artificial+Intelligence+and+Machine+Learning" alt="AI and ML" />
-</p>
+  <div>
+    <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" style="border-radius: 8px;" />
+  </div>
+</div>
 
 
 <p align="center">
