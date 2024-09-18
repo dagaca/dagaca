@@ -5,6 +5,18 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
+<p align="left">
+  <a href="https://www.kaggle.com/dagaca" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-1a73e8?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:dagacaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/damlaagaca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 GitHub Stats & Contributions:
@@ -16,22 +28,6 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagaca&theme=radical" alt="GitHub Streak" height="135px" />
-</p>
-
----
-
-## 🔗 Connect with me:
-
-<p align="left">
-  <a href="https://www.kaggle.com/dagaca" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-1a73e8?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:dagacaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/damlaagaca/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
