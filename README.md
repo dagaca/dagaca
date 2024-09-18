@@ -4,7 +4,7 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 
 <table style="border: none; border-color: white;">
   <tr>
-    <td style="border: none; padding-right: 20px;">
+    <td style="border: none; padding-right: 0px;">
       <strong>🛠 Currently working on:</strong><br>
       - **AI**, **ML**, **NLP**<br>
       - **Python**, **SQL**, **RestAPI**, **Flask**<br><br>
