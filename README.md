@@ -2,8 +2,17 @@
 
 I'm an **AI Developer** currently pursuing my master's degree at **Balikesir University**. My master's thesis focuses on the **Classification of Harmonic Generating Power System Elements with Artificial Intelligence Methods**.
 
-| <strong>🛠 Currently working on:</strong><br>- **AI**, **ML**, **NLP**<br>- **Python**, **SQL**, **RestAPI**, **Flask**<br><br><strong>🌱 Exploring:</strong><br>- **C#** and **.NET** to enhance my web development skills | <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300" /> |
-| --- | --- |
+<table>
+  <tr>
+    <td>
+      <strong>🛠 Currently working on:</strong><br>- **AI**, **ML**, **NLP**<br>- **Python**, **SQL**, **RestAPI**, **Flask**<br><br>
+      <strong>🌱 Exploring:</strong><br>- **C#** and **.NET** to enhance my web development skills
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <strong>Connect with me:</strong>
