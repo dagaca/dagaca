@@ -5,9 +5,18 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.  
 🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
-| <div align="left">🛠 **Currently working on:**<br>- **AI**, **ML**, **NLP**<br>- **Python**, **SQL**, **RestAPI**, **Flask**<br><br>🌱 **Exploring:**<br>- **C#** and **.NET** to enhance my web development skills</div> | <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300" /> |
-| :--- | :---: |
+<p align="center">
+  <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300px" align="right" />
+</p>
 
+<p align="left">
+  <strong>🛠 Currently working on:</strong><br>
+  - **AI**, **ML**, **NLP**<br>
+  - **Python**, **SQL**, **RestAPI**, **Flask**<br><br>
+  
+  <strong>🌱 Exploring:</strong><br>
+  - **C#** and **.NET** to enhance my web development skills
+</p>
 
 <p align="center">
   <strong>Connect with me:</strong>
