@@ -5,24 +5,8 @@ I'm an **AI Developer** currently pursuing my master's degree at **Balikesir Uni
 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**.  
 🌱 Exploring **C#** and **.NET** to enhance my web development skills.
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h3>🛠 Currently working on:</h3>
-    <ul>
-      <li><strong>AI</strong>, <strong>ML</strong>, <strong>NLP</strong></li>
-      <li><strong>Python</strong>, <strong>SQL</strong>, <strong>RestAPI</strong>, <strong>Flask</strong></li>
-    </ul>
-
-    <h3>🌱 Exploring:</h3>
-    <ul>
-      <li><strong>C#</strong> and <strong>.NET</strong> to enhance my web development skills</li>
-    </ul>
-  </div>
-
-  <div>
-    <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" style="border-radius: 8px;" />
-  </div>
-</div>
+| <div align="left">🛠 **Currently working on:**<br>- **AI**, **ML**, **NLP**<br>- **Python**, **SQL**, **RestAPI**, **Flask**<br><br>🌱 **Exploring:**<br>- **C#** and **.NET** to enhance my web development skills</div> | <img src="https://via.placeholder.com/400x300?text=Artificial+Intelligence" alt="AI and ML" width="300" /> |
+| :--- | :---: |
 
 
 <p align="center">
