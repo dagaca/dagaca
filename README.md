@@ -37,9 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical" alt="Top Languages" height="135px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagaca&theme=radical" alt="GitHub Streak" height="135px" />
-</p>
 
 
 
