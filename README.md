@@ -33,24 +33,8 @@
 ## 🧠 GitHub Stats & Contributions:
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=dagaca
-            &show_icons=true
-            &theme=radical
-            &include_all_commits=true
-            &count_private=true" 
-       alt="Damla's GitHub Stats" 
-       height="150px"
-  />
-  
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca
-            &layout=compact
-            &theme=radical
-            &langs_count=10" 
-       alt="Top Languages" 
-       height="150px"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dagaca&show_icons=true&theme=radical&hide=contribs,prs" alt="Damla's GitHub Stats" height="135px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical" alt="Top Languages" height="135px" />
 </p>
 
 
