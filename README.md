@@ -21,6 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical" alt="Top Languages" height="135px" />
 </p>
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dagaca&repo=Smart-Travel-Turkey)](https://github.com/dagaca/Smart-Travel-Turkey)
 
 
 ## 💼 Skills & Tools:
