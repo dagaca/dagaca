@@ -13,55 +13,12 @@
 <br />
 <br />
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=dagaca&show_icons=true&theme=radical&hide=contribs,prs" 
-       alt="Damla's GitHub Stats" 
-       height="135px" 
-  />
-  
-  <img 
-       src="https://github-readme-stats.vercel.app/api/pin/?username=dagaca&repo=my-awesome-repo&theme=radical" 
-       alt="Örnek Repo Card" 
-       height="135px"
-  />
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       height="135px"
-  />
-</p>
-
-
 
 ## 🧠 GitHub Stats & Contributions:
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=dagaca
-            &show_icons=true
-            &theme=radical
-            &hide=contribs,prs" 
-       alt="Damla's GitHub Stats" 
-       height="135px" 
-  />
-  
-  <img 
-       src="https://github-readme-stats.vercel.app/api/pin/?username=dagaca
-            &repo=REPO_ADI
-            &theme=radical" 
-       alt="Örnek Repo Card" 
-       height="135px"
-  />
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca
-            &layout=compact
-            &theme=radical" 
-       alt="Top Languages" 
-       height="135px"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dagaca&show_icons=true&theme=radical&hide=contribs,prs" alt="Damla's GitHub Stats" height="135px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical" alt="Top Languages" height="135px" />
 </p>
 
 
