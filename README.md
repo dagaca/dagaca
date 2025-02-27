@@ -14,20 +14,25 @@
 <br />
 
 <p align="center">
-  <strong>Connect with me:</strong>
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=dagaca&show_icons=true&theme=radical&hide=contribs,prs" 
+       alt="Damla's GitHub Stats" 
+       height="135px" 
+  />
+  
+  <img 
+       src="https://github-readme-stats.vercel.app/api/pin/?username=dagaca&repo=my-awesome-repo&theme=radical" 
+       alt="Örnek Repo Card" 
+       height="135px"
+  />
+
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagaca&layout=compact&theme=radical" 
+       alt="Top Languages" 
+       height="135px"
+  />
 </p>
 
-<p align="center">
-  <a href="https://www.kaggle.com/dagaca" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-1a73e8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:dagacaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/damlaagaca/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 
 ## 🧠 GitHub Stats & Contributions:
