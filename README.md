@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
 <img align="right" alt="Coding" width="350" src="https://r.resimlink.com/3GLVUcxF.gif">
-<p align="left">Welcome to my GitHub profile! I am an AI Developer holding a master's degree focused on AI. My research primarily addressed <strong>“CLASSIFICATION OF HARMONIC-PRODUCING RESIDENTIAL TYPE LOADS USING ARTIFICIAL NEURAL NETWORKS.”</strong></p>
+<p align="left">Welcome to my GitHub profile! I am an AI Developer with an MSc in AI.</p>
 
 - 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**  
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills 
