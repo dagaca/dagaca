@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
+<img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <br />
 <br />
