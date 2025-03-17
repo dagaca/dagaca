@@ -11,6 +11,7 @@
 
 <img align="center" alt="Coding" width="750" src="https://r.resimlink.com/0LGXN.gif">
 
+<br />
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
 ![focus](https://img.shields.io/badge/focus-AI-4caf50)
