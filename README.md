@@ -6,7 +6,7 @@
 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, **Docker**, **Swagger**, and **Postman**
 
 🚀 **Check out my Kaggle Profile!** 👇  
-&nbsp;&nbsp; <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <p align="left">
   <a href="https://www.kaggle.com/dagaca">
