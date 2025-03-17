@@ -2,11 +2,11 @@
 <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
 
-&nbsp;&nbsp; <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, **Docker**, **Swagger**, and **Postman**
 
 🚀 **Check out my Kaggle Profile!** 👇  
+&nbsp;&nbsp; <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <p align="left">
   <a href="https://www.kaggle.com/dagaca">
