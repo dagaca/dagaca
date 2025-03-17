@@ -7,19 +7,13 @@
 
 🚀 **Check out my Kaggle Profile!** 👇  
 
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://www.kaggle.com/dagaca">
-        <img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-      </a>
-    </td>
-    <td align="right">
-      <img alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  <a href="https://www.kaggle.com/dagaca">
+    <img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <span style="display:inline-block; width: 150px;"></span>
+  <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
+</p>
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
 ![focus](https://img.shields.io/badge/focus-AI-4caf50)
