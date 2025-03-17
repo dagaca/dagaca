@@ -18,8 +18,6 @@
 
 <img align="center" alt="Coding" width="750" src="https://r.resimlink.com/0LGXN.gif">
 
-<br />
-
 
 ## 🧠 GitHub Stats & Contributions:
 
