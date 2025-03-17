@@ -21,6 +21,7 @@
 ![living](https://img.shields.io/badge/living-Turkey-red)
 ![visitors](https://profile-counter.glitch.me/{dagaca}/count.svg)
 
+<br />
 
 
 ## 🧠 GitHub Stats & Contributions:
