@@ -5,6 +5,7 @@
 
 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, **Docker**, **Swagger**, and **Postman**
 
+<img align="center" alt="Coding" width="400" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <br />
 
