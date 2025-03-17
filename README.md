@@ -8,7 +8,11 @@
 
 🚀 **Check out my Kaggle Profile!** 👇  
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dagaca)  
+<p align="center">
+  <a href="https://www.kaggle.com/dagaca">
+    <img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+</p>
 
 <img align="right" alt="Coding" width="300" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
