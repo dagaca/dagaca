@@ -9,7 +9,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dagaca)  
 
-<img align="center" alt="Coding" width="200" src="https://r.resimlink.com/2o9OPDnY7i.gif">
+<img align="right" alt="Coding" width="200" src="https://r.resimlink.com/2o9OPDnY7i.gif">
 
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
