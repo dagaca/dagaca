@@ -14,10 +14,6 @@
   <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 </p>
 
-<br />
-<br />
-<br />
-<br />
 
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
