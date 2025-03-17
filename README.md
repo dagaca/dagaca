@@ -2,8 +2,7 @@
 <img align="right" alt="Coding" width="350" src="https://r.resimlink.com/3GLVUcxF.gif">
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
 
-- 🔭 Currently working with **AI**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL**, **REST APIs**, and **Flask**  
-- 🌱 Exploring **C#** and **.NET** to enhance my web development skills 
+- 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, and **Docker**
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
 ![focus](https://img.shields.io/badge/focus-AI-4caf50)
