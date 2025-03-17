@@ -10,7 +10,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dagaca)  
 
-<img alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
+<img align="left" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <br />
 
