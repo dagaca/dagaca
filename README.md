@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="center" alt="Coding" width="750" src="https://r.resimlink.com/0LGXN.gif">
+<img align="center" alt="Coding" width="400" src="https://r.resimlink.com/0LGXN.gif">
 
 
 ## 🧠 GitHub Stats & Contributions:
