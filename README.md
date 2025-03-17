@@ -14,7 +14,6 @@
 ![living](https://img.shields.io/badge/living-Turkey-red)
 ![visitors](https://profile-counter.glitch.me/{dagaca}/count.svg)
 
-<br />
 
 <img align="center" alt="Coding" width="1000" src="https://r.resimlink.com/0LGXN.gif">
 
