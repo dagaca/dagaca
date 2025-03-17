@@ -1,8 +1,8 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
 <img align="right" alt="Coding" width="350" src="https://r.resimlink.com/3GLVUcxF.gif">
-<p align="left">Welcome to my GitHub profile! I am an AI Developer with an MSc in AI.</p>
+<p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
 
-- 🔭 Currently working on **AI**, **ML**, **NLP**, **Python**, **SQL**, **RestAPI**, and **Flask**  
+- 🔭 Currently working with **AI**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL**, **REST APIs**, and **Flask**  
 - 🌱 Exploring **C#** and **.NET** to enhance my web development skills 
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
