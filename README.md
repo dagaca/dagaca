@@ -7,13 +7,13 @@
 
 🚀 **Check out my Kaggle Profile!** 👇  
 
-<p align="center">
+<p align="left">
   <a href="https://www.kaggle.com/dagaca">
     <img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
+<img align="center" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
