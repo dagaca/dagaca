@@ -1,5 +1,7 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
 <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
+<img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
+
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
 
 
@@ -9,7 +11,6 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dagaca)  
 
-<img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <br />
 
