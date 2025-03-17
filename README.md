@@ -1,5 +1,6 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
 <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
+<br />
 &nbsp;&nbsp; <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
