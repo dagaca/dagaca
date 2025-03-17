@@ -3,7 +3,6 @@
 
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
 
-<br />
 &nbsp;&nbsp; <img align="right" alt="Coding" width="200" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, **Docker**, **Swagger**, and **Postman**
