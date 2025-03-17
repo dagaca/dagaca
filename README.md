@@ -13,6 +13,8 @@
 <img align="right" alt="Coding" width="300" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <br />
+<br />
+<br />
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
 ![focus](https://img.shields.io/badge/focus-AI-4caf50)
