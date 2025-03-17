@@ -4,11 +4,13 @@
 
 
 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, **Docker**, **Swagger**, and **Postman**
+🚀 **Check out my Kaggle Profile!** 👇  
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dagaca)  
 
 <img align="center" alt="Coding" width="400" src="https://r.resimlink.com/d6rDjCNp3JqK.gif">
 
 <br />
-
 
 ![age](https://img.shields.io/badge/age-26-1f77b4)
 ![focus](https://img.shields.io/badge/focus-AI-4caf50)
