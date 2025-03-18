@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
 
 <div align="right">
-  <img alt="Coding" width="350px" style="max-width: 100%;" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
+  <img alt="Coding" width="250px" style="max-width: 100%;" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
 </div>
 
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
