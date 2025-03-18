@@ -1,9 +1,5 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
-
-<div align="right">
-  <img alt="Coding" width="250px" style="max-width: 100%;" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
-</div>
-
+<img align="right" alt="Coding" width="350" src="https://r.resimlink.com/74vmc8O2Zr6.gif">
 <p align="left">Welcome to my GitHub profile. I am an AI Developer with an MSc in Artificial Intelligence.</p>
 
 
@@ -19,9 +15,7 @@
 ![visitors](https://profile-counter.glitch.me/{dagaca}/count.svg)
 
 
-<p align="center">
-  <img alt="Coding" width="100%" style="max-width: 1000px;" src="https://r.resimlink.com/0LGXN.gif">
-</p>
+<img align="center" alt="Coding" width="1000" src="https://r.resimlink.com/0LGXN.gif">
 
 
 ## 🧠 GitHub Stats & Contributions:
