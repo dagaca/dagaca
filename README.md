@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Damla AĞAÇA</h1>
-<p align="left">Welcome to my GitHub profile. I am an Developer with an MSc in Artificial Intelligence.</p>
+<p align="left">Welcome to my GitHub profile. I am a developer with an MSc in Artificial Intelligence.</p>
 
 
 🔭 Currently working with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Python**, **SQL (MSSQL, PostgreSQL)**, **REST APIs**, **Flask**, **Docker**, **Swagger**, and **Postman**
